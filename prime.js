@@ -10,7 +10,7 @@ for(let i=1; i<=number; i++)
     }
 }
 
-if(count==5)
+if(count==2)
 {
     console.log("prime")
 }
